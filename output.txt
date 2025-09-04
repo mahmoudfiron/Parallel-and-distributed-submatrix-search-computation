@@ -1,0 +1,4 @@
+Picture 11 found Object 101 in Position(1,2)
+Picture 12 No Objects were found
+Picture 13 found Object 102 in Position(2,1)
+Picture 14 found Object 103 in Position(1,1)
